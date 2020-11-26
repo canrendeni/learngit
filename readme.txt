@@ -1,2 +1,2 @@
 git is a free software.
-git is nb!
+git is very nb!
